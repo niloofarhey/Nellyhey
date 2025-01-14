@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Niloofarehey
+- 👋 Hi, I’m @Niloofarhey
 - 👀 I’m interested in Smart life from cars to cities!
 - 🌱 I’m currently learning more on federated learning!
 - 💞️ I’m looking to collaborate on any smart life project.
